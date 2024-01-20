@@ -11,18 +11,30 @@
 ![Image not found](https://github.com/anishredddy/ecommerce-admin/blob/main/ScreenShots/Screenshot%20(66).png)
 
 ## Packages used
-zustand
-zod
-shadn-ui
-react-hot-toast
-prisma
-clerk
-cloudinary
-axios
-clsx
-lucide-react
-next-cloudinary
-react-hook-form
+
+zustand.
+
+zod.
+
+shadn-ui.
+
+react-hot-toast.
+
+prisma.
+
+clerk.
+
+cloudinary.
+
+axios.
+
+clsx.
+
+lucide-react.
+
+next-cloudinary.
+
+react-hook-form.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
